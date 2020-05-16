@@ -1,0 +1,17 @@
+.user-info{
+    line-height: 1px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid lightgray;
+}
+
+.profile{
+    display: flex;
+}
+.main-btn{
+    width: 150px;
+    height: 30px;
+    background-color: seagreen;
+    border: 1px solid seagreen;
+    border-radius: 7px;
+}
