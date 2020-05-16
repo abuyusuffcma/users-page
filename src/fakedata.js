@@ -27,7 +27,7 @@ var users = [
     {
       "id": 2,
       "name": "Ervin Howell",
-    "img":"https://doc-14-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/omat7kt4c1uqg4u0t94nn7kbs95nnqo4/1589557200000/11096310272368735931/11096310272368735931/19Bhi1WesFlV4gbXY_K15TcLtN4W8ZZFs?authuser=0",
+    "img":"https://drive.google.com/file/d/19Bhi1WesFlV4gbXY_K15TcLtN4W8ZZFs/view?usp=sharing",
     "salary":"40000",
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
