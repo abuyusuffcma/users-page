@@ -2,10 +2,11 @@ var users = [
     {
       "id": 1,
       "name": "Leanne Graham",
-      "img":"https://photos.app.goo.gl/srPZkbXdykWpxywp7",
+      "img":"https://i.ibb.co/6vz09nJ/images-5.jpg",
+      
       "username": "Bret",
       "email": "Sincere@april.biz",
-      "salary":"35000",
+      "salary":35000,
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -27,8 +28,8 @@ var users = [
     {
       "id": 2,
       "name": "Ervin Howell",
-    "img":"https://drive.google.com/file/d/19Bhi1WesFlV4gbXY_K15TcLtN4W8ZZFs/view?usp=sharing",
-    "salary":"40000",
+    "img":"https://i.ibb.co/7bQ36P1/download-1.jpg",
+    "salary":40000,
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
       "address": {
@@ -52,8 +53,8 @@ var users = [
     {
       "id": 3,
       "name": "Clementine Bauch",
-      "img":"https://doc-0o-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/809mqnvu6joqd8b2jan0vgd92vb29u24/1589557350000/11096310272368735931/11096310272368735931/1Qvkc179WR9L6UpmYHWn0NTPpXMwyEhib?authuser=0",
-      "salary":"45000",
+      "img":"https://i.ibb.co/4F8Nrh8/images-6.jpg",
+      "salary":45000,
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
       "address": {
@@ -77,8 +78,8 @@ var users = [
     {
       "id": 4,
       "name": "Patricia Lebsack",
-      "img":"https://doc-0k-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/s4tr8cehueah72m6cqne8jig1gsvi68l/1589557500000/11096310272368735931/11096310272368735931/1WXZ7WKYYAAP4hYw2t3bhEA3_70zEyYnD?authuser=0",
-      "salary":"20000",
+      "img":"https://i.ibb.co/PtnpXHY/download-4.jpg",
+      "salary":20000,
       "username": "Karianne",
       "email": "Julianne.OConner@kory.org",
       "address": {
@@ -102,8 +103,8 @@ var users = [
     {
       "id": 5,
       "name": "Chelsey Dietrich",
-      "img":"https://doc-08-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/afmhoa9lj7u9jja01v6quglu5j42prf3/1589557575000/11096310272368735931/11096310272368735931/1uD1xUfQcgqk8IunScc52zViLT933ZXRN?authuser=0",
-      "salary":"25000",
+      "img":"https://i.ibb.co/tsSTtjm/download-5.jpg",
+      "salary":25000,
       "username": "Kamren",
       "email": "Lucio_Hettinger@annie.ca",
       "address": {
@@ -127,8 +128,8 @@ var users = [
     {
       "id": 6,
       "name": "Mrs. Dennis Schulist",
-      "img":"https://doc-0g-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/4fbgu97oi8bk9t16bj1clubf3em0oco5/1589557650000/11096310272368735931/11096310272368735931/1AfRksj0-0d6fYwVo0mYdoWOfsAMRHGiR?authuser=0",
-      "salary":"21000",
+      "img":"https://i.ibb.co/Y7YCXdz/download.jpg",
+      "salary":21000,
       "username": "Leopoldo_Corkery",
       "email": "Karley_Dach@jasper.info",
       "address": {
@@ -152,8 +153,8 @@ var users = [
     {
       "id": 7,
       "name": "Kurtis Weissnat",
-      "img":"https://doc-00-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/k7a1kge4miqjcr2ku8n6egsqdchtpmn1/1589557725000/11096310272368735931/11096310272368735931/1IKl1ovt9VCTfXKhKMsu14IrZzzfdkmE3?authuser=0",
-      "salary":"18000",
+      "img":"https://i.ibb.co/3fHc4BC/images-1.jpg",
+      "salary":18000,
       "username": "Elwyn.Skiles",
       "email": "Telly.Hoeger@billy.biz",
       "address": {
@@ -177,8 +178,8 @@ var users = [
     {
       "id": 8,
       "name": "Nicholas Runolfsdottir V",
-      "img":"https://doc-0k-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/uuiun8r29h8o6v3q234tcor4q34qa39j/1589557875000/11096310272368735931/11096310272368735931/1NtBMn2OvPiw46jA3AadZSewQraMChG0l?authuser=0",
-      "salary":"23000",
+      "img":"https://i.ibb.co/9rVr1VY/images-2.jpg",
+      "salary":23000,
       "username": "Maxime_Nienow",
       "email": "Sherwood@rosamond.me",
       "address": {
@@ -202,8 +203,8 @@ var users = [
     {
       "id": 9,
       "name": "Glenna Reichert",
-      "img":"https://doc-0s-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/k190p81trudh71g6o0j6manosp55l3ml/1589557950000/11096310272368735931/11096310272368735931/1KoptNu4VZMoy1g8W2OCQHwc-61RZnjPT?authuser=0",
-      "salary":"28000",
+      "img":"https://i.ibb.co/pbrvJRB/images-3.jpg",
+      "salary":28000,
       "username": "Delphine",
       "email": "Chaim_McDermott@dana.io",
       "address": {
@@ -227,8 +228,8 @@ var users = [
     {
       "id": 10,
       "name": "Shamim Hossain",
-      "img":"https://doc-0s-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/3tieqaf86n45qeak63f40b1rtd1vt197/1589557950000/11096310272368735931/11096310272368735931/1v0fRsVjH38FMrQqaRy9ylukm_H5B7WeZ?authuser=0",
-      "salary":"29000",
+      "img":"https://i.ibb.co/bgRc0dd/images-4.jpg",
+      "salary":29000,
       "username": "Moriah.Stanton",
       "email": "Rey.Padberg@karina.biz",
       "address": {
@@ -252,8 +253,8 @@ var users = [
     {
         "id": 11,
         "name": "Masudur Rahman",
-        "img":"https://doc-04-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/qvp5b44sumjg1b9up6roe3cn87vsd4ag/1589558100000/11096310272368735931/11096310272368735931/1xNPsRVW_C5XXAM6v3mqTcdetEy73Gca-?authuser=0",
-        "salary":"29000",
+        "img":"https://i.ibb.co/6vz09nJ/images-5.jpg",
+        "salary":29000,
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
         "address": {
@@ -277,8 +278,8 @@ var users = [
       {
         "id": 12,
         "name": "Mukul",
-        "img":"https://doc-0o-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/0vqmlhb1ndld58rklh0363hbji52ik32/1589558250000/11096310272368735931/11096310272368735931/1-sSM7CUEfkFYdCo3gvv8NmR69bSXYLHL?authuser=0",
-        "salary":"29000",
+        "img":"https://i.ibb.co/4F8Nrh8/images-6.jpg",
+        "salary":29000,
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
         "address": {
@@ -302,8 +303,8 @@ var users = [
       {
         "id": 13,
         "name": "Clementina DuBuque",
-        "img":"https://doc-0k-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/uuiun8r29h8o6v3q234tcor4q34qa39j/1589557875000/11096310272368735931/11096310272368735931/1NtBMn2OvPiw46jA3AadZSewQraMChG0l?authuser=0",
-        "salary":"29000",
+        "img":"https://i.ibb.co/cJ766ty/images-7.jpg",
+        "salary":29000,
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
         "address": {
@@ -327,8 +328,8 @@ var users = [
       {
         "id": 14,
         "name": "Anisul Islam",
-        "img":"https://doc-04-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/qvp5b44sumjg1b9up6roe3cn87vsd4ag/1589558100000/11096310272368735931/11096310272368735931/1xNPsRVW_C5XXAM6v3mqTcdetEy73Gca-?authuser=0",
-        "salary":"29000",
+        "img":"https://i.ibb.co/KxDnsyJ/images.jpg",
+        "salary":29000,
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
         "address": {
@@ -352,8 +353,8 @@ var users = [
       {
         "id": 15,
         "name": "Abul Kalam",
-        "img":"https://doc-0o-a8-docs.googleusercontent.com/docs/securesc/s3nk0tb8oph9qj2tfgvm2bjd6tvuv1fu/0vqmlhb1ndld58rklh0363hbji52ik32/1589558250000/11096310272368735931/11096310272368735931/1-sSM7CUEfkFYdCo3gvv8NmR69bSXYLHL?authuser=0",
-        "salary":"29000",
+        "img":"https://i.ibb.co/7bQ36P1/download-1.jpg",
+        "salary":29000,
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
         "address": {

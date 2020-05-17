@@ -13,7 +13,7 @@ const Friends = (props) => {
     return (
         <div>
             <h3>Total Friends Added : {friend.length}</h3>
-    <h4>Total Yearly Salary of Friends : {total}</h4>
+    <h4>Total Yearly Salary of Friends : $ {total}.00</h4>
         </div>
     );
 };

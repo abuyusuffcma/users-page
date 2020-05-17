@@ -11,7 +11,8 @@ const Users = () => {
     const [friend, setFriend] = useState([]);
 
     const handleAddProfile = (profile)=>{
-        const newFriend = [...friend,profile];
+        console.log("friend added");
+        const newFriend = [...friend, profile];
         setFriend(newFriend);
     }
 
@@ -23,12 +24,12 @@ const Users = () => {
                     {
                         users.map(user => <Profiles 
                             handleAddProfile = {handleAddProfile}
-                            profile={user}>{user.name}</Profiles>)
+                            profile={user}></Profiles>)
                     }
                 
             </div> 
             <div className="friend-container">
-                <h3>This is Cart</h3>
+                
                 <Friends friend = {friend}></Friends>
             </div>
             
